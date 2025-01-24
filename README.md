@@ -141,7 +141,7 @@ Una vez detectada la información sensible, se aplica un filtro para **ofuscar**
 ---
 ## Preguntas Frecuentes.
 
-1. **¿Cómo se están entrenando los modelos?**
+1. ## **¿Cómo se están entrenando los modelos?**
 Los modelos en este proyecto se entrenan siguiendo un proceso estructurado que combina técnicas avanzadas de procesamiento del lenguaje natural y aprendizaje automático. A continuación, se detalla el proceso basado en la información proporcionada:
 
 Preparación de los Datos:
@@ -172,15 +172,15 @@ Modelos Utilizados:
 DistilBERT: Clasificador principal para identificar información sensible, elegido por su rendimiento eficiente con menor costo computacional.
 GPT-3.5 Turbo: LLM encargado de procesar y generar respuestas después de la clasificación y ofuscación de datos sensibles.
 Este proceso asegura que el sistema sea robusto, preciso y capaz de manejar datos en tiempo real mientras protege la privacidad del usuario. 
----
-2. **¿La solución es capaz de detectar y ofuscar cualquier tipo de información sensible?**
+
+2.  ## **¿La solución es capaz de detectar y ofuscar cualquier tipo de información sensible?**
 
 Sí, la solución descrita es capaz de detectar y ofuscar diversos tipos de información sensible. El proceso incluye un sistema que utiliza un enfoque híbrido para identificar datos privados, integrando un modelo de aprendizaje profundo basado en GPT-3.5-turbo y DistilBERT para la clasificación de secuencias. La base de datos utilizada contiene categorías diversas de información sensible como claves de acceso, direcciones físicas, números de teléfono, correos electrónicos, nombres completos, identificaciones personales, cuentas bancarias, y tipos de tarjetas de crédito, lo que asegura que el sistema pueda manejar una amplia gama de riesgos de privacidad. Además de la capacidad para detectar información sensible mediante clasificación y formatos específicos, el sistema también incluye una parte que detecta patrones específicos dentro del texto. Este enfoque es crucial para identificar datos sensibles que podrían no estar explícitamente etiquetados como tales, pero que siguen un patrón común. Por ejemplo, números de teléfono, direcciones de correo electrónico, o incluso estructuras de claves de acceso que siguen una secuencia predecible.
 
 ![Ejemplo de uso de ofuscación](https://drive.google.com/file/d/17dfjJhN1lcdsu37UmJiUrDKBAUgG37uF/view?usp=sharing)
 ---
 
-3. ** ¿Cómo se realiza el proceso de ofuscación? **
+3. ## ** ¿Cómo se realiza el proceso de ofuscación? **
 
 El proceso de ofuscación se lleva a cabo en varias etapas para proteger tanto la entrada del usuario como la respuesta generada por el modelo. A continuación se detalla el proceso paso a paso:
 
