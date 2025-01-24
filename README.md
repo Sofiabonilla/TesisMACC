@@ -178,7 +178,7 @@ Este proceso asegura que el sistema sea robusto, preciso y capaz de manejar dato
 
 Sí, la solución descrita es capaz de detectar y ofuscar diversos tipos de información sensible. El proceso incluye un sistema que utiliza un enfoque híbrido para identificar datos privados, integrando un modelo de aprendizaje profundo basado en GPT-3.5-turbo y DistilBERT para la clasificación de secuencias. La base de datos utilizada contiene categorías diversas de información sensible como claves de acceso, direcciones físicas, números de teléfono, correos electrónicos, nombres completos, identificaciones personales, cuentas bancarias, y tipos de tarjetas de crédito, lo que asegura que el sistema pueda manejar una amplia gama de riesgos de privacidad. Además de la capacidad para detectar información sensible mediante clasificación y formatos específicos, el sistema también incluye una parte que detecta patrones específicos dentro del texto. Este enfoque es crucial para identificar datos sensibles que podrían no estar explícitamente etiquetados como tales, pero que siguen un patrón común. Por ejemplo, números de teléfono, direcciones de correo electrónico, o incluso estructuras de claves de acceso que siguen una secuencia predecible.
 
-![Ejemplo de uso de ofuscación](https://drive.google.com/file/d/17dfjJhN1lcdsu37UmJiUrDKBAUgG37uF/view?usp=sharing)
+![Ejemplo de uso de ofuscación](https://drive.google.com/uc?id=17dfjJhN1lcdsu37UmJiUrDKBAUgG37uF)
 ---
 
 3. ## **¿Cómo se realiza el proceso de ofuscación?**
