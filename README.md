@@ -14,13 +14,14 @@ El propósito principal del sistema es garantizar la **privacidad de los usuario
 El sistema combina técnicas avanzadas de **aprendizaje profundo** con modelos de Procesamiento del Lenguaje Natural (NLP) para ofrecer una solución precisa y eficiente.
 
 ---
+## Metodologia propuesta 
+![metodo](https://drive.google.com/uc?id=1uyXNMTD0fl0myrMS-oWrRMMaAPCj4ZAz)
 
 ## Arquitectura del Sistema
 
-El sistema tiene una arquitectura híbrida que incluye los siguientes componentes principales:
-1. **Clasificación de Datos Sensibles:** Utiliza un modelo basado en Transformers (DistilBERT) para identificar información sensible.
-2. **LLM Principal:** El modelo GPT-3.5-turbo de OpenAI para manejar consultas y datos procesados.
-3. **Ofuscación de Datos:** Módulo encargado de reemplazar información sensible con versiones seguras antes del procesamiento por el LLM.
+La elección de las capas de la arquitectura se fundamenta en los objetivos establecidos, buscando maximizar la efectividad y eficiencia del sistema. Se ha implementado una variedad de modelos, cada uno seleccionado por su capacidad para abordar diferentes aspectos del problema
+En la siguiente imagen se puede evidenciar la arquitectura establecida para este proyecto:
+![arquitectura](https://drive.google.com/uc?id=1uc-RHOu-tU1hcjGGUshoeaXMjFcSeivB)
 
 ---
 
