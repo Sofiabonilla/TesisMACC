@@ -98,7 +98,7 @@ Una vez detectada la información sensible, se aplica un filtro para **ofuscar**
 ---
 ## Resultado de uso
 
-![Resultado de la detección y ofuscación](https://drive.google.com/file/d/1f5Q5b9kAfd2uum0HKVDljvabjmXXqTr4/view?usp=sharing)
+![Resultado de la detección y ofuscación]([https://drive.google.com/file/d/1f5Q5b9kAfd2uum0HKVDljvabjmXXqTr4/view?usp=sharing](https://drive.google.com/uc?id=1f5Q5b9kAfd2uum0HKVDljvabjmXXqTr4))
 
 ---
 
