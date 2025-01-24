@@ -117,7 +117,7 @@ Una vez detectada la información sensible, se aplica un filtro para **ofuscar**
 ### Instalación
 1. Clona este repositorio:
    ```bash
-   git clone ******
+   git clone [******](https://github.com/Sofiabonilla/TesisMACC.git)
   
 2. **Subir los archivos de datos**:  
    - Asegúrate de subir al entorno de Google Colab los siguientes archivos:
@@ -144,21 +144,21 @@ Una vez detectada la información sensible, se aplica un filtro para **ofuscar**
 1. ## **¿Cómo se están entrenando los modelos?**
 Los modelos en este proyecto se entrenan siguiendo un proceso estructurado que combina técnicas avanzadas de procesamiento del lenguaje natural y aprendizaje automático. A continuación, se detalla el proceso basado en la información proporcionada:
 
-Preparación de los Datos:
+#Preparación de los Datos:
 
 Se utiliza una base de datos etiquetada con 839 frases, clasificadas como sensibles (1) o no sensibles (0). Estas frases fueron generadas y ajustadas manualmente para garantizar que representen casos realistas.
 Los datos sensibles incluyen categorías como contraseñas, números de tarjetas de crédito, correos electrónicos y direcciones físicas.
 División de los Datos:
 
-Los datos se dividen en dos conjuntos utilizando la función train_test_split:
+#Los datos se dividen en dos conjuntos utilizando la función train_test_split:
 Conjunto de entrenamiento: Para ajustar los parámetros del modelo.
 Conjunto de prueba: Para evaluar el rendimiento y prevenir el sobreajuste.
 Tokenización:
 
 Se utiliza el DistilBertTokenizer para convertir las frases en una representación numérica adecuada para los modelos.
 Se configuran parámetros como truncamiento y relleno (padding) para asegurar que todas las entradas tengan una longitud uniforme (máximo 512 tokens).
-Creación del Dataset:
 
+#Creación del Dataset:
 Se implementa una clase personalizada SensitiveDataDataset para manejar las secuencias tokenizadas y etiquetas. Esto permite que el modelo procese los datos eficientemente durante el entrenamiento.
 Configuración del Entrenamiento:
 
@@ -180,17 +180,17 @@ Sí, la solución descrita es capaz de detectar y ofuscar diversos tipos de info
 ![Ejemplo de uso de ofuscación](https://drive.google.com/file/d/17dfjJhN1lcdsu37UmJiUrDKBAUgG37uF/view?usp=sharing)
 ---
 
-3. ## ** ¿Cómo se realiza el proceso de ofuscación? **
+3. ## **¿Cómo se realiza el proceso de ofuscación?**
 
 El proceso de ofuscación se lleva a cabo en varias etapas para proteger tanto la entrada del usuario como la respuesta generada por el modelo. A continuación se detalla el proceso paso a paso:
 
-- Entrada del Usuario: Cuando el usuario ingresa su texto, el primer paso es procesar la entrada mediante un modelo de clasificación entrenado para identificar si el texto contiene información sensible. Este modelo utiliza la función predict para clasificar el texto como "sensible" (1) o "no sensible" (0). Además, se aplica una detección basada en patrones utilizando la función detect_sensitive_info, que identifica información sensible como direcciones, números de teléfono, o identificaciones personales, basándose en patrones predefinidos.
+# Entrada del Usuario: Cuando el usuario ingresa su texto, el primer paso es procesar la entrada mediante un modelo de clasificación entrenado para identificar si el texto contiene información sensible. Este modelo utiliza la función predict para clasificar el texto como "sensible" (1) o "no sensible" (0). Además, se aplica una detección basada en patrones utilizando la función detect_sensitive_info, que identifica información sensible como direcciones, números de teléfono, o identificaciones personales, basándose en patrones predefinidos.
 
-- Ofuscación de la Entrada: Una vez que el texto ha sido procesado, y si se detecta que contiene información sensible (o simplemente para proteger la privacidad del usuario), se aplica un proceso de ofuscación utilizando la función obfuscate. Esta función transforma el texto original en una forma alterada que oculta cualquier dato confidencial, asegurando que no se expongan detalles privados cuando se envía al modelo para su procesamiento.
+# Ofuscación de la Entrada: Una vez que el texto ha sido procesado, y si se detecta que contiene información sensible (o simplemente para proteger la privacidad del usuario), se aplica un proceso de ofuscación utilizando la función obfuscate. Esta función transforma el texto original en una forma alterada que oculta cualquier dato confidencial, asegurando que no se expongan detalles privados cuando se envía al modelo para su procesamiento.
 
-- Respuesta del Modelo: Una vez que el texto ofuscado es enviado al modelo GPT-3.5-turbo de OpenAI, el modelo genera una respuesta basada en la entrada recibida. Sin embargo, como el modelo también puede generar respuestas que incluyan información sensible, se aplica un segundo proceso de ofuscación sobre la respuesta generada. Esto asegura que cualquier detalle confidencial que pudiera haber sido mencionado en la respuesta también quede oculto antes de ser presentado al usuario.
+# Respuesta del Modelo: Una vez que el texto ofuscado es enviado al modelo GPT-3.5-turbo de OpenAI, el modelo genera una respuesta basada en la entrada recibida. Sin embargo, como el modelo también puede generar respuestas que incluyan información sensible, se aplica un segundo proceso de ofuscación sobre la respuesta generada. Esto asegura que cualquier detalle confidencial que pudiera haber sido mencionado en la respuesta también quede oculto antes de ser presentado al usuario.
 
-- Resultados Finales: El sistema devuelve tres resultados clave: primero, se indica si la entrada del usuario contenía información sensible. En segundo lugar, se muestra la entrada ofuscada que fue procesada por el modelo. Por último, se proporciona la respuesta ofuscada generada por el modelo. De esta manera, el proceso garantiza que tanto la entrada como la salida estén protegidas contra la exposición de datos sensibles.
+# Resultados Finales: El sistema devuelve tres resultados clave: primero, se indica si la entrada del usuario contenía información sensible. En segundo lugar, se muestra la entrada ofuscada que fue procesada por el modelo. Por último, se proporciona la respuesta ofuscada generada por el modelo. De esta manera, el proceso garantiza que tanto la entrada como la salida estén protegidas contra la exposición de datos sensibles.
 
 En resumen, el proceso de ofuscación en este sistema es doble: se aplica tanto al texto ingresado por el usuario como a la respuesta generada por el modelo. Esto asegura que la privacidad y la seguridad de la información sensible se mantengan a lo largo de toda la interacción, desde el ingreso de datos hasta la obtención de respuestas. 
 
