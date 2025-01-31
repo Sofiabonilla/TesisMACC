@@ -1,0 +1,987 @@
+frase,etiqueta
+"Dirección: 4567 Maple Ave, Chicago, IL, Correo: carlos.diaz@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: maria.lopez@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: ana.garcia@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 1234 Elm St, Springfield, IL, Correo: elena.morales@email.com, Teléfono: (555) 012-3456",1
+"Dirección: 6789 Birch Dr, Seattle, WA, Correo: ana.garcia@email.com, Teléfono: (555) 012-3456",1
+"Dirección: 1234 Elm St, Springfield, IL, Correo: victor.hernandez@email.com, Teléfono: (555) 123-4567",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: carlos.diaz@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: luis.martinez@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: maria.lopez@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 1234 Elm St, Springfield, IL, Correo: ana.garcia@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: ana.garcia@email.com, Teléfono: (555) 123-4567",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: maria.lopez@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: victor.hernandez@email.com, Teléfono: (555) 123-4567",1
+"Dirección: 5678 Cedar Ln, Dallas, TX, Correo: elena.morales@email.com, Teléfono: (555) 123-4567",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: luis.martinez@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 6789 Birch Dr, Seattle, WA, Correo: lucia.gonzalez@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 5678 Cedar Ln, Dallas, TX, Correo: lucia.gonzalez@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: victor.hernandez@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: maria.lopez@email.com, Teléfono: (555) 890-1234",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: victor.hernandez@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 5678 Cedar Ln, Dallas, TX, Correo: pedro.smith@email.com, Teléfono: (555) 123-4567",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: victor.hernandez@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 6789 Birch Dr, Seattle, WA, Correo: sofia.jones@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: maria.lopez@email.com, Teléfono: (555) 567-8901",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: ana.garcia@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 6789 Birch Dr, Seattle, WA, Correo: lucia.gonzalez@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: lucia.gonzalez@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: luis.martinez@email.com, Teléfono: (555) 567-8901",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: luis.martinez@email.com, Teléfono: (555) 123-4567",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: carlos.diaz@email.com, Teléfono: (555) 890-1234",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: ana.garcia@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 6789 Birch Dr, Seattle, WA, Correo: sofia.jones@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: pedro.smith@email.com, Teléfono: (555) 567-8901",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: elena.morales@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: victor.hernandez@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: ana.garcia@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 1234 Elm St, Springfield, IL, Correo: pedro.smith@email.com, Teléfono: (555) 012-3456",1
+"Dirección: 4567 Maple Ave, Chicago, IL, Correo: juan.perez@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: ana.garcia@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: juan.perez@email.com, Teléfono: (555) 890-1234",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: carlos.diaz@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: maria.lopez@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 5678 Cedar Ln, Dallas, TX, Correo: pedro.smith@email.com, Teléfono: (555) 012-3456",1
+"Dirección: 1234 Elm St, Springfield, IL, Correo: lucia.gonzalez@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: ana.garcia@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: lucia.gonzalez@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 4567 Maple Ave, Chicago, IL, Correo: ana.garcia@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: carlos.diaz@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 1234 Elm St, Springfield, IL, Correo: pedro.smith@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: victor.hernandez@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: juan.perez@email.com, Teléfono: (555) 123-4567",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: luis.martinez@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: ana.garcia@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: luis.martinez@email.com, Teléfono: (555) 123-4567",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: ana.garcia@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: victor.hernandez@email.com, Teléfono: (555) 567-8901",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: ana.garcia@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: juan.perez@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 1234 Elm St, Springfield, IL, Correo: lucia.gonzalez@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: carlos.diaz@email.com, Teléfono: (555) 890-1234",1
+"Dirección: 1234 Elm St, Springfield, IL, Correo: luis.martinez@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: carlos.diaz@email.com, Teléfono: (555) 123-4567",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: victor.hernandez@email.com, Teléfono: (555) 123-4567",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: maria.lopez@email.com, Teléfono: (555) 567-8901",1
+"Dirección: 1234 Elm St, Springfield, IL, Correo: elena.morales@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: luis.martinez@email.com, Teléfono: (555) 567-8901",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: victor.hernandez@email.com, Teléfono: (555) 890-1234",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: ana.garcia@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 4567 Maple Ave, Chicago, IL, Correo: lucia.gonzalez@email.com, Teléfono: (555) 012-3456",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: sofia.jones@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: maria.lopez@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 5678 Cedar Ln, Dallas, TX, Correo: juan.perez@email.com, Teléfono: (555) 012-3456",1
+"Dirección: 5678 Cedar Ln, Dallas, TX, Correo: luis.martinez@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: carlos.diaz@email.com, Teléfono: (555) 890-1234",1
+"Dirección: 6789 Birch Dr, Seattle, WA, Correo: ana.garcia@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: ana.garcia@email.com, Teléfono: (555) 567-8901",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: carlos.diaz@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: maria.lopez@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: juan.perez@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: lucia.gonzalez@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: carlos.diaz@email.com, Teléfono: (555) 012-3456",1
+"Dirección: 5678 Cedar Ln, Dallas, TX, Correo: ana.garcia@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: victor.hernandez@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 4567 Maple Ave, Chicago, IL, Correo: carlos.diaz@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: elena.morales@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: luis.martinez@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: juan.perez@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: juan.perez@email.com, Teléfono: (555) 567-8901",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: ana.garcia@email.com, Teléfono: (555) 123-4567",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: ana.garcia@email.com, Teléfono: (555) 012-3456",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: sofia.jones@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: maria.lopez@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: maria.lopez@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: luis.martinez@email.com, Teléfono: (555) 567-8901",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: sofia.jones@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: ana.garcia@email.com, Teléfono: (555) 012-3456",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: victor.hernandez@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 4567 Maple Ave, Chicago, IL, Correo: elena.morales@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: maria.lopez@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: elena.morales@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: ana.garcia@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: elena.morales@email.com, Teléfono: (555) 890-1234",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: victor.hernandez@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 4567 Maple Ave, Chicago, IL, Correo: elena.morales@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: juan.perez@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: juan.perez@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: maria.lopez@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: luis.martinez@email.com, Teléfono: (555) 890-1234",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: ana.garcia@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: pedro.smith@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 4567 Maple Ave, Chicago, IL, Correo: pedro.smith@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: elena.morales@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 6789 Birch Dr, Seattle, WA, Correo: juan.perez@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: ana.garcia@email.com, Teléfono: (555) 123-4567",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: pedro.smith@email.com, Teléfono: (555) 567-8901",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: luis.martinez@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: ana.garcia@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 1234 Elm St, Springfield, IL, Correo: elena.morales@email.com, Teléfono: (555) 012-3456",1
+"Dirección: 4567 Maple Ave, Chicago, IL, Correo: lucia.gonzalez@email.com, Teléfono: (555) 123-4567",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: juan.perez@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: luis.martinez@email.com, Teléfono: (555) 123-4567",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: pedro.smith@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 6789 Birch Dr, Seattle, WA, Correo: luis.martinez@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: juan.perez@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: ana.garcia@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 1234 Elm St, Springfield, IL, Correo: elena.morales@email.com, Teléfono: (555) 012-3456",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: sofia.jones@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 4567 Maple Ave, Chicago, IL, Correo: ana.garcia@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 5678 Cedar Ln, Dallas, TX, Correo: juan.perez@email.com, Teléfono: (555) 890-1234",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: elena.morales@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 5678 Cedar Ln, Dallas, TX, Correo: pedro.smith@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: luis.martinez@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: elena.morales@email.com, Teléfono: (555) 890-1234",1
+"Dirección: 5678 Cedar Ln, Dallas, TX, Correo: juan.perez@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: sofia.jones@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 5678 Cedar Ln, Dallas, TX, Correo: lucia.gonzalez@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: ana.garcia@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 5678 Cedar Ln, Dallas, TX, Correo: juan.perez@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: sofia.jones@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: ana.garcia@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 4567 Maple Ave, Chicago, IL, Correo: sofia.jones@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: luis.martinez@email.com, Teléfono: (555) 567-8901",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: victor.hernandez@email.com, Teléfono: (555) 012-3456",1
+"Dirección: 5678 Cedar Ln, Dallas, TX, Correo: victor.hernandez@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 1234 Elm St, Springfield, IL, Correo: maria.lopez@email.com, Teléfono: (555) 123-4567",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: maria.lopez@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: carlos.diaz@email.com, Teléfono: (555) 567-8901",1
+"Dirección: 6789 Birch Dr, Seattle, WA, Correo: juan.perez@email.com, Teléfono: (555) 567-8901",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: elena.morales@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 4567 Maple Ave, Chicago, IL, Correo: maria.lopez@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: maria.lopez@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: carlos.diaz@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: luis.martinez@email.com, Teléfono: (555) 567-8901",1
+"Dirección: 6789 Birch Dr, Seattle, WA, Correo: luis.martinez@email.com, Teléfono: (555) 012-3456",1
+"Dirección: 6789 Birch Dr, Seattle, WA, Correo: elena.morales@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 1234 Elm St, Springfield, IL, Correo: lucia.gonzalez@email.com, Teléfono: (555) 567-8901",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: ana.garcia@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: juan.perez@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: pedro.smith@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: carlos.diaz@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: elena.morales@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 6789 Birch Dr, Seattle, WA, Correo: pedro.smith@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: sofia.jones@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 1234 Elm St, Springfield, IL, Correo: elena.morales@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: carlos.diaz@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: luis.martinez@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: luis.martinez@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 6789 Birch Dr, Seattle, WA, Correo: luis.martinez@email.com, Teléfono: (555) 012-3456",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: juan.perez@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: pedro.smith@email.com, Teléfono: (555) 567-8901",1
+"Dirección: 4567 Maple Ave, Chicago, IL, Correo: elena.morales@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: juan.perez@email.com, Teléfono: (555) 890-1234",1
+"Dirección: 6789 Birch Dr, Seattle, WA, Correo: sofia.jones@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: victor.hernandez@email.com, Teléfono: (555) 890-1234",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: carlos.diaz@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 123 Birchwood Rd, Austin, TX, Correo: carlos.diaz@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 2345 Pine Blvd, Miami, FL, Correo: lucia.gonzalez@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 4567 Maple Ave, Chicago, IL, Correo: lucia.gonzalez@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 6789 Birch Dr, Seattle, WA, Correo: pedro.smith@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: juan.perez@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: lucia.gonzalez@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: juan.perez@email.com, Teléfono: (555) 123-4567",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: maria.lopez@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: maria.lopez@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: victor.hernandez@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: lucia.gonzalez@email.com, Teléfono: (555) 012-3456",1
+"Dirección: 1234 Elm St, Springfield, IL, Correo: victor.hernandez@email.com, Teléfono: (555) 234-5678",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: carlos.diaz@email.com, Teléfono: (555) 123-4567",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: pedro.smith@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 987 Cherry Blvd, Boston, MA, Correo: lucia.gonzalez@email.com, Teléfono: (555) 567-8901",1
+"Dirección: 5678 Cedar Ln, Dallas, TX, Correo: luis.martinez@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 4567 Maple Ave, Chicago, IL, Correo: victor.hernandez@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: luis.martinez@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: elena.morales@email.com, Teléfono: (555) 345-6789",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: ana.garcia@email.com, Teléfono: (555) 901-2345",1
+"Dirección: 5678 Cedar Ln, Dallas, TX, Correo: pedro.smith@email.com, Teléfono: (555) 678-9012",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: luis.martinez@email.com, Teléfono: (555) 789-0123",1
+"Dirección: 4321 Aspen St, New York, NY, Correo: sofia.jones@email.com, Teléfono: (555) 456-7890",1
+"Dirección: 8765 Willow Ave, San Francisco, CA, Correo: lucia.gonzalez@email.com, Teléfono: (555) 123-4567",1
+"Dirección: 8901 Oak Rd, Denver, CO, Correo: lucia.gonzalez@email.com, Teléfono: (555) 901-2345",1
+El tipo de tarjeta de crÃ©dito del usuario es jcb.,1
+Vi una pelÃ­cula sobre tecnologÃ­a y fue increÃ­ble.,0
+El tipo de tarjeta de crÃ©dito del usuario es maestro.,1
+Mi email es lolooneye1@i2i.jp.,1
+Vi una pelÃ­cula sobre arte y fue increÃ­ble.,0
+Hoy es un buen dÃ­a para pintar.,0
+El tipo de tarjeta de crÃ©dito del usuario es china-unionpay.,1
+La contraseÃ±a del usuario es tJ3~Ns}xXA7h.s).,1
+@euajgd.zkvewjhp es una gran inspiraciÃ³n en Instagram.,0
+El tipo de tarjeta de crÃ©dito del usuario es maestro.,1
+Mi contraseÃ±a es qwerty789,1
+Disfruto mucho cocinar los fines de semana.,0
+Mi email es jsargint9x@addthis.com.,1
+En mi casa tengo una planta de rosas.,0
+En mi casa tengo una planta de rosas.,0
+Ayer visitÃ© el parque y vi un perro.,0
+El apellido del usuario es Mulcaster.,1
+Hoy es un buen dÃ­a para correr.,0
+La ciudad estÃ¡ llena de parques.,0
+En mi casa tengo una planta de orquÃ­deas.,0
+El clima estÃ¡ soleado hoy.,0
+Vi una pelÃ­cula sobre arte y fue increÃ­ble.,0
+El clima estÃ¡ nublado hoy.,0
+El telÃ©fono de mi papÃ¡ es nueve-ocho-siete-seis-cinco-cuatro-tres-dos-uno-cero,1
+Me encanta leer libros sobre tecnologÃ­a.,0
+Ayer visitÃ© el parque y vi un pez.,0
+Mi email es rmannakeeeg@wiley.com.,1
+El nÃºmero de telÃ©fono del usuario es 161-646-0608.,1
+La comida favorita de mi amigo es pizza.,0
+La ciudad estÃ¡ llena de museos.,0
+La estaciÃ³n del aÃ±o favorita de mi hermano es otoÃ±o.,0
+La ciudad estÃ¡ llena de teatros.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 67613280200326607,1
+Mi nÃºmero de tarjeta de crÃ©dito es 633110352906293212 y es de tipo switch.,1
+Ayer visitÃ© el parque y vi un pez.,0
+En mi casa tengo una planta de cactus.,0
+El nÃºmero de telÃ©fono del usuario es 319-916-5337.,1
+El tipo de tarjeta de crÃ©dito del usuario es jcb.,1
+Mi correo electronico es rgennrich1t@rambler.ru.,1
+Ayer visitÃ© el parque y vi un pez.,0
+Mi contraseÃ±a es abc123456,1
+No te pierdas las historias de @mrjcpyej_vsmxge.,0
+Mi email es badamollihe@stanford.edu.,1
+El nÃºmero de telÃ©fono del usuario es 408-860-7458.,1
+Mi nombre es Randell Longland y mi telefono es 3751614226.,1
+El tipo de tarjeta de crÃ©dito del usuario es jcb.,1
+Mi correo electronico es spledgerqv@t.co.,1
+Disfruto mucho caminar los fines de semana.,0
+Mi nombre es Bevin Doppler y mi telefono es 1861471540.,1
+Mi correo electronico es acoilsk5@51.la.,1
+Mi tarjeta de crÃ©dito es 5555555555555555 y es de tipo MasterCard,1
+Mi email es bscannellnk@eepurl.com.,1
+Me encanta lo que publica @njpuia.pxmkvjg.,0
+El apellido del usuario es Blethin.,1
+El tipo de tarjeta de crÃ©dito del usuario es mastercard.,1
+El nÃºmero de telÃ©fono del usuario es 123-333-0754.,1
+Mi nÃºmero de tarjeta de crÃ©dito es 30371197295545 y es de tipo diners-club-carte-blanche.,1
+Mi correo electrÃ³nico es david.add@example.com,1
+Mi correo electronico es dpetrillo34@ox.ac.uk.,1
+La ciudad estÃ¡ llena de parques.,0
+Sigan a @hwuzevvg.kndevxvp para mÃ¡s contenido.,0
+Hoy es un buen dÃ­a para caminar.,0
+Disfruto mucho pintar los fines de semana.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 3560555824379027 y es de tipo jcb.,1
+Mi correo electronico es mprine55@ning.com.,1
+Vi una pelÃ­cula sobre ciencia y fue increÃ­ble.,0
+Mi nombre es Carlos Martinez,1
+Mi correo electronico es rbriztmanjr@cdbaby.com.,1
+La estaciÃ³n del aÃ±o favorita de mi hermano es otoÃ±o.,0
+Vi una pelÃ­cula sobre arte y fue increÃ­ble.,0
+Ayer visitÃ© el parque y vi un pez.,0
+Vi una pelÃ­cula sobre ciencia y fue increÃ­ble.,0
+Vi una pelÃ­cula sobre naturaleza y fue increÃ­ble.,0
+En mi casa tengo una planta de girasoles.,0
+En mi casa tengo una planta de girasoles.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 3568593822063030,1
+Ayer visitÃ© el parque y vi un pÃ¡jaro.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 4844002023638818,1
+Mi nombre es Laura Diaz,1
+Me encanta leer libros sobre historia.,0
+La contraseÃ±a del usuario es uG2\{L+Lbf.,1
+El tipo de tarjeta de crÃ©dito del usuario es jcb.,1
+Mi nÃºmero de telÃ©fono  es 5278583147.,1
+La estaciÃ³n del aÃ±o favorita de mi hermano es invierno.,0
+En mi casa tengo una planta de cactus.,0
+En mi casa tengo una planta de girasoles.,0
+La comida favorita de mi amigo es sushi.,0
+La ciudad estÃ¡ llena de teatros.,0
+La comida favorita de mi amigo es sushi.,0
+Recomiendo seguir a @mawqjiv.gjpfjc.,0
+El clima estÃ¡ ventoso hoy.,0
+Recomiendo seguir a @mpeiaoc.prlgld.,0
+Mi email es abeneditegg@bing.com.,1
+El tipo de tarjeta de crÃ©dito del usuario es visa.,1
+Me encanta leer libros sobre naturaleza.,0
+Mi nÃºmero de telÃ©fono  es 1137404808.,1
+Mi correo electronico es morteauid@europa.eu.,1
+En mi casa tengo una planta de orquÃ­deas.,0
+El tipo de tarjeta de crÃ©dito del usuario es laser.,1
+No te pierdas las historias de @fbfhtdfi_ddzior.,0
+En mi casa tengo una planta de orquÃ­deas.,0
+El apellido del usuario es Ramelet.,1
+En mi casa tengo una planta de rosas.,0
+Mi nÃºmero de telÃ©fono adicional es ocho-ocho-ocho-nueve-nueve-nueve-cero-cero-cero-cero,1
+La comida favorita de mi amigo es hamburguesas.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 201605807294759 y es de tipo diners-club-enroute.,1
+Mi nÃºmero de telÃ©fono adicional es uno-uno-uno-dos-dos-dos-tres-tres-tres-tres,1
+Disfruto mucho correr los fines de semana.,0
+En mi casa tengo una planta de cactus.,0
+El nÃºmero de telÃ©fono del usuario es 492-664-0040.,1
+La estaciÃ³n del aÃ±o favorita de mi hermano es otoÃ±o.,0
+La comida favorita de mi amigo es pasta.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 560222379253543287,1
+Mi nÃºmero de tarjeta de crÃ©dito es 30195053594745 y es de tipo diners-club-carte-blanche.,1
+Mi nombre es Luigi Groucock y mi telefono es 3415207638.,1
+Mi nÃºmero de telÃ©fono  es 7223139396.,1
+Mi tarjeta de crÃ©dito es 4444444444444444 y es de tipo VISA,1
+El apellido del usuario es Longbothom.,1
+La ciudad estÃ¡ llena de parques.,0
+Mi email es ddruel2d@youtube.com.,1
+El apellido del usuario es Rotherham.,1
+Mi nÃºmero de tarjeta de crÃ©dito es 374283623741949 y es de tipo americanexpress.,1
+Me encanta lo que publica @ehixemwvzbteqd.,0
+El tipo de tarjeta de crÃ©dito del usuario es jcb.,1
+Mi nombre es Burr Chazelas y mi telefono es 2546264003.,1
+El clima estÃ¡ nublado hoy.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 6706751048817146448 y es de tipo laser.,1
+El nÃºmero de telÃ©fono del usuario es 482-594-2317.,1
+La estaciÃ³n del aÃ±o favorita de mi hermano es invierno.,0
+Disfruto mucho cocinar los fines de semana.,0
+El apellido del usuario es End.,1
+El apellido del usuario es Pidgen.,1
+Mi email es lmacaulay6m@instagram.com.,1
+La contraseÃ±a del usuario es rN4<LCiAY.,1
+Mi correo electrÃ³nico es luis.add@example.com,1
+Me encanta leer libros sobre tecnologÃ­a.,0
+Mi correo electronico es vtuveyll@home.pl.,1
+Mi email es lvarahif@pagesperso-orange.fr.,1
+En mi casa tengo una planta de girasoles.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 3569673902103689 y es de tipo jcb.,1
+Me encanta leer libros sobre ciencia.,0
+Me encanta leer libros sobre naturaleza.,0
+Mi nombre es Prudence Batalini y mi telefono es 8171432203.,1
+Mi nÃºmero de telÃ©fono  es 1672923781.,1
+Sigan a @bgmwvpsfioljl para mÃ¡s contenido.,0
+Vi una pelÃ­cula sobre tecnologÃ­a y fue increÃ­ble.,0
+Mi nombre es Jamil Ludgate y mi telefono es 6925217842.,1
+Mi nÃºmero de tarjeta de crÃ©dito es 3575618484711757,1
+El apellido del usuario es Bricket.,1
+El tipo de tarjeta de crÃ©dito del usuario es jcb.,1
+Hoy es un buen dÃ­a para caminar.,0
+La ciudad estÃ¡ llena de teatros.,0
+La contraseÃ±a del usuario es uT5}im2S'fnKSV+I.,1
+Mi email es dmcelory8c@cnet.com.,1
+El clima estÃ¡ nublado hoy.,0
+El nÃºmero de telÃ©fono del usuario es 596-508-5811.,1
+Mi email es mallkinsbe@g.co.,1
+La comida favorita de mi amigo es pasta.,0
+Me encanta leer libros sobre historia.,0
+Mi contraseÃ±a es 123456,1
+La comida favorita de mi amigo es pasta.,0
+En mi casa tengo una planta de girasoles.,0
+El apellido del usuario es Petters.,1
+El nÃºmero de telÃ©fono del usuario es 511-333-8883.,1
+Ayer visitÃ© el parque y vi un perro.,0
+Mi nÃºmero de telÃ©fono  es 5588887274.,1
+El tipo de tarjeta de crÃ©dito del usuario es jcb.,1
+El tipo de tarjeta de crÃ©dito del usuario es americanexpress.,1
+Me encanta lo que publica @slpwpp_rvbxf.,0
+El tipo de tarjeta de crÃ©dito del usuario es bankcard.,1
+Mi correo electrÃ³nico es elena.add@example.com,1
+Mi correo electronico es csheklepk@alexa.com.,1
+La comida favorita de mi amigo es pizza.,0
+El tipo de tarjeta de crÃ©dito del usuario es jcb.,1
+Mi correo electrÃ³nico es carlos.add@example.com,1
+Vi una pelÃ­cula sobre ciencia y fue increÃ­ble.,0
+Me encanta lo que publica @rrsco.wasfzj.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 3574806983972860,1
+Disfruto mucho correr los fines de semana.,0
+El clima estÃ¡ soleado hoy.,0
+Vi una pelÃ­cula sobre ciencia y fue increÃ­ble.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 4844002023638818 y es de tipo visa-electron.,1
+Me encanta leer libros sobre historia.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 5100135633753019,1
+Mi correo electronico es btollmache9h@barnesandnoble.com.,1
+El nÃºmero de telÃ©fono del usuario es 673-179-5951.,1
+La estaciÃ³n del aÃ±o favorita de mi hermano es otoÃ±o.,0
+Disfruto mucho leer los fines de semana.,0
+Sigan a @rlxskilybzoeeus para mÃ¡s contenido.,0
+El clima estÃ¡ nublado hoy.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 3566935828121316 y es de tipo jcb.,1
+El nÃºmero de telÃ©fono del usuario es 281-782-5208.,1
+El nÃºmero de telÃ©fono del usuario es 998-347-5978.,1
+Mi nÃºmero de tarjeta de crÃ©dito es 3574680163250201,1
+El nÃºmero de telÃ©fono del usuario es 340-835-7353.,1
+Ayer visitÃ© el parque y vi un perro.,0
+Hoy es un buen dÃ­a para correr.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 6372253807674199,1
+El nÃºmero de telÃ©fono del usuario es 240-659-8154.,1
+Mi nÃºmero de tarjeta de crÃ©dito es 201447653212019 y es de tipo diners-club-enroute.,1
+El tipo de tarjeta de crÃ©dito del usuario es jcb.,1
+Mi nÃºmero de tarjeta de crÃ©dito es 633364524684955559,1
+Mi correo electronico es mgrogonab7@deviantart.com.,1
+El nÃºmero de telÃ©fono del usuario es 681-989-5304.,1
+Vi una pelÃ­cula sobre ciencia y fue increÃ­ble.,0
+El clima estÃ¡ soleado hoy.,0
+El tipo de tarjeta de crÃ©dito del usuario es jcb.,1
+Hoy es un buen dÃ­a para cocinar.,0
+El clima estÃ¡ soleado hoy.,0
+La comida favorita de mi amigo es pizza.,0
+Disfruto mucho cocinar los fines de semana.,0
+Hoy es un buen dÃ­a para cocinar.,0
+El telÃ©fono de mi papÃ¡ es ocho-ocho-ocho-ocho-ocho-ocho-ocho-ocho-ocho-ocho,1
+La comida favorita de mi amigo es hamburguesas.,0
+El nÃºmero de telÃ©fono del usuario es 963-716-8619.,1
+La ciudad estÃ¡ llena de teatros.,0
+El clima estÃ¡ soleado hoy.,0
+Mi nombre es Mollie Sommerly y mi telefono es 5746916247.,1
+Mi email es wreasonle@e-recht24.de.,1
+Mi email es reyreeak@miibeian.gov.cn.,1
+La estaciÃ³n del aÃ±o favorita de mi hermano es primavera.,0
+El clima estÃ¡ lluvioso hoy.,0
+La ciudad estÃ¡ llena de parques.,0
+El apellido del usuario es Hanway.,1
+Mi nÃºmero de telÃ©fono  es 5348211714.,1
+Mi nÃºmero de tarjeta de crÃ©dito es 4903890089988236,1
+Sigan a @lgrjo.oieca para mÃ¡s contenido.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 30546553189198 y es de tipo diners-club-carte-blanche.,1
+El clima estÃ¡ lluvioso hoy.,0
+La ciudad estÃ¡ llena de cafeterÃ­as.,0
+La comida favorita de mi amigo es pizza.,0
+Mi email es dduesterq0@gizmodo.com.,1
+El tipo de tarjeta de crÃ©dito del usuario es jcb.,1
+La contraseÃ±a del usuario es fA1.*2B$/Vk'.,1
+Me encanta leer libros sobre arte.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 3537312060659401 y es de tipo jcb.,1
+@zygiblpx.ygxjn tiene unos posts geniales.,0
+Mi correo electronico es mtodda0@xinhuanet.com.,1
+La comida favorita de mi amigo es pizza.,0
+La contraseÃ±a del usuario es vS1##psJ.,1
+Mi correo electronico es lfurzea9@mayoclinic.com.,1
+Mi contraseÃ±a es welcome678,1
+Hoy es un buen dÃ­a para correr.,0
+Mi email es smathetei@a8.net.,1
+Disfruto mucho caminar los fines de semana.,0
+@szhxutfhxfsu es una gran inspiraciÃ³n en Instagram.,0
+La ciudad estÃ¡ llena de mercados.,0
+Mi nombre es Dinnie Burgne y mi telefono es 8903377271.,1
+La comida favorita de mi amigo es tacos.,0
+Me encanta lo que publica @iksblpe.lfmeui.,0
+Mi email es rpenburtona2@hhs.gov.,1
+La comida favorita de mi amigo es hamburguesas.,0
+Mi tarjeta de crÃ©dito es 8888888888888888 y es de tipo MasterCard,1
+@zacxichmpngqwtgi es una gran inspiraciÃ³n en Instagram.,0
+Vi una pelÃ­cula sobre historia y fue increÃ­ble.,0
+El tipo de tarjeta de crÃ©dito del usuario es jcb.,1
+En mi casa tengo una planta de orquÃ­deas.,0
+Mi nÃºmero de telÃ©fono  es 6669759455.,1
+Mi nÃºmero de tarjeta de crÃ©dito es 3550866919534935 y es de tipo jcb.,1
+Mi email es dstoodalek@diigo.com.,1
+La estaciÃ³n del aÃ±o favorita de mi hermano es primavera.,0
+Mi email es dfraczakn0@tamu.edu.,1
+El clima estÃ¡ nublado hoy.,0
+Mi email es cgairdneri4@ning.com.,1
+El tipo de tarjeta de crÃ©dito del usuario es jcb.,1
+Mi nÃºmero de tarjeta de crÃ©dito es 374622255161167 y es de tipo americanexpress.,1
+El apellido del usuario es Harmes.,1
+En mi casa tengo una planta de rosas.,0
+La estaciÃ³n del aÃ±o favorita de mi hermano es otoÃ±o.,0
+Ayer visitÃ© el parque y vi un pÃ¡jaro.,0
+En mi casa tengo una planta de lavanda.,0
+Disfruto mucho correr los fines de semana.,0
+El clima estÃ¡ lluvioso hoy.,0
+Mi email es freddingl6@un.org.,1
+Vi una pelÃ­cula sobre arte y fue increÃ­ble.,0
+Mi email es uhattameu@google.com.au.,1
+En mi casa tengo una planta de rosas.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 4405307332760836,1
+Mi nÃºmero de tarjeta de crÃ©dito es 374283292400025 y es de tipo americanexpress.,1
+Me encanta leer libros sobre historia.,0
+Me encanta leer libros sobre naturaleza.,0
+En mi casa tengo una planta de orquÃ­deas.,0
+La estaciÃ³n del aÃ±o favorita de mi hermano es otoÃ±o.,0
+Ayer visitÃ© el parque y vi un pÃ¡jaro.,0
+Disfruto mucho leer los fines de semana.,0
+Recomiendo seguir a @irimldgs.hasofj.,0
+Hoy es un buen dÃ­a para leer.,0
+Ayer visitÃ© el parque y vi un pez.,0
+Mi email es jwoltering2p@hubpages.com.,1
+El tipo de tarjeta de crÃ©dito del usuario es switch.,1
+En mi casa tengo una planta de orquÃ­deas.,0
+En mi casa tengo una planta de girasoles.,0
+Disfruto mucho leer los fines de semana.,0
+El clima estÃ¡ ventoso hoy.,0
+La ciudad estÃ¡ llena de parques.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 5418096161663466 y es de tipo mastercard.,1
+No se pierdan los videos de @wpzgfju.givfhl.,0
+Mi nombre es Beatrice Hellen y mi telefono es 9446033612.,1
+Mi nombre es Shalom Nelthrop y mi telefono es 5585532365.,1
+Mi nÃºmero de tarjeta de crÃ©dito es 346159679287208,1
+Me encanta leer libros sobre naturaleza.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 3528650621738052,1
+Mi nombre es Hendrick Tatlow y mi telefono es 9681273761.,1
+El telÃ©fono de mi papÃ¡ es seis-seis-seis-seis-seis-seis-seis-seis-seis-seis,1
+Me encanta leer libros sobre arte.,0
+Mi nÃºmero de telÃ©fono adicional es cinco-cinco-cinco-seis-seis-seis-siete-siete-siete-siete,1
+El clima estÃ¡ ventoso hoy.,0
+Ayer visitÃ© el parque y vi un pÃ¡jaro.,0
+El tipo de tarjeta de crÃ©dito del usuario es mastercard.,1
+La ciudad estÃ¡ llena de museos.,0
+La ciudad estÃ¡ llena de teatros.,0
+Mi email es kmccallamdy@ed.gov.,1
+La comida favorita de mi amigo es tacos.,0
+Ayer visitÃ© el parque y vi un pez.,0
+Mi email es rchetham4u@nih.gov.,1
+La ciudad estÃ¡ llena de cafeterÃ­as.,0
+Mi nombre es Luis Rodriguez,1
+Me encanta leer libros sobre naturaleza.,0
+La contraseÃ±a del usuario es oU3(9*t*I/*.,1
+Hoy es un buen dÃ­a para correr.,0
+El tipo de tarjeta de crÃ©dito del usuario es switch.,1
+Mi nÃºmero de tarjeta de crÃ©dito es 5194894852820506,1
+El apellido del usuario es Orteu.,1
+La ciudad estÃ¡ llena de teatros.,0
+El nÃºmero de telÃ©fono del usuario es 280-347-9011.,1
+Mi nÃºmero de tarjeta de crÃ©dito es 3559545221715686,1
+Mi nÃºmero de tarjeta de crÃ©dito es 6043324447438268,1
+El nÃºmero de telÃ©fono del usuario es 107-506-6201.,1
+Mi nombre es Kathie Hickin y mi telefono es 1795197157.,1
+Mi correo electronico es aramplinga@creativecommons.org.,1
+Disfruto mucho cocinar los fines de semana.,0
+Mi nombre es Scarface Jennick y mi telefono es 8723880826.,1
+Mi nombre es Carlos Martinez,1
+Mi email es mgrealy8l@irs.gov.,1
+La contraseÃ±a del usuario es uH6(?@uC.,1
+El clima estÃ¡ nevado hoy.,0
+La ciudad estÃ¡ llena de cafeterÃ­as.,0
+El apellido del usuario es Langworthy.,1
+Mi correo electronico es msetterington4q@cpanel.net.,1
+Vi una pelÃ­cula sobre tecnologÃ­a y fue increÃ­ble.,0
+La estaciÃ³n del aÃ±o favorita de mi hermano es invierno.,0
+Mi email es cpettersfm@baidu.com.,1
+La estaciÃ³n del aÃ±o favorita de mi hermano es invierno.,0
+Hoy es un buen dÃ­a para cocinar.,0
+La estaciÃ³n del aÃ±o favorita de mi hermano es verano.,0
+El tipo de tarjeta de crÃ©dito del usuario es jcb.,1
+Me encanta leer libros sobre ciencia.,0
+Vi una pelÃ­cula sobre ciencia y fue increÃ­ble.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 30269119906746 y es de tipo diners-club-carte-blanche.,1
+Mi correo electrÃ³nico es carlos.add@example.com,1
+Vi una pelÃ­cula sobre arte y fue increÃ­ble.,0
+Mi email es pskelhornd9@mac.com.,1
+Mi nÃºmero de telÃ©fono  es 2767536426.,1
+La contraseÃ±a del usuario es pA5=}AI2Q.,1
+El clima estÃ¡ lluvioso hoy.,0
+Mi correo electronico es vtisunq7@woothemes.com.,1
+El nÃºmero de telÃ©fono del usuario es 220-439-4088.,1
+Mi nÃºmero de telÃ©fono adicional es nueve-nueve-nueve-uno-uno-uno-dos-dos-dos-dos,1
+Mi nÃºmero de tarjeta de crÃ©dito es 3575484926819967 y es de tipo jcb.,1
+El clima estÃ¡ soleado hoy.,0
+Disfruto mucho pintar los fines de semana.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 5432930663988207 y es de tipo mastercard.,1
+La estaciÃ³n del aÃ±o favorita de mi hermano es primavera.,0
+Mi correo electronico es abransgrovemm@ted.com.,1
+Disfruto mucho pintar los fines de semana.,0
+El telÃ©fono de mi papÃ¡ es uno-uno-uno-uno-uno-uno-uno-uno-uno-uno,1
+El clima estÃ¡ soleado hoy.,0
+Mi correo electronico es ntheis9i@newsvine.com.,1
+Recomiendo seguir a @ylrcuxrioeugzc.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 3534781336428234,1
+Mi nÃºmero de telÃ©fono  es 4145250805.,1
+Mi nÃºmero de telÃ©fono  es 4081859948.,1
+El apellido del usuario es Demicoli.,1
+Ayer visitÃ© el parque y vi un gato.,0
+Mi nombre es Tanhya Garritley y mi telefono es 8263939467.,1
+En mi casa tengo una planta de lavanda.,0
+Mi email es orahill6i@harvard.edu.,1
+Vi una pelÃ­cula sobre tecnologÃ­a y fue increÃ­ble.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 5100170535566144 y es de tipo mastercard.,1
+Mi nÃºmero de telÃ©fono  es 8656074156.,1
+Mi nÃºmero de tarjeta de crÃ©dito es 30002247511769 y es de tipo diners-club-carte-blanche.,1
+La ciudad estÃ¡ llena de museos.,0
+El clima estÃ¡ nublado hoy.,0
+Hoy es un buen dÃ­a para correr.,0
+El apellido del usuario es Elderton.,1
+La comida favorita de mi amigo es tacos.,0
+Ayer visitÃ© el parque y vi un conejo.,0
+La estaciÃ³n del aÃ±o favorita de mi hermano es invierno.,0
+Hoy es un buen dÃ­a para correr.,0
+Mi correo electrÃ³nico es sofia.add@example.com,1
+Mi nÃºmero de telÃ©fono  es 2462927239.,1
+Mi nombre es Carlos Martinez,1
+Hoy es un buen dÃ­a para correr.,0
+Disfruto mucho correr los fines de semana.,0
+La comida favorita de mi amigo es sushi.,0
+La ciudad estÃ¡ llena de teatros.,0
+Hoy es un buen dÃ­a para pintar.,0
+Disfruto mucho caminar los fines de semana.,0
+Me encanta leer libros sobre historia.,0
+Sigan a @zevqcrbdaxhv para mÃ¡s contenido.,0
+Mi correo electrÃ³nico es maria.add@example.com,1
+El nÃºmero de telÃ©fono del usuario es 275-180-2216.,1
+El apellido del usuario es Naile.,1
+El apellido del usuario es Severns.,1
+Disfruto mucho caminar los fines de semana.,0
+Mi correo electronico es ldikelsr9@jugem.jp.,1
+La estaciÃ³n del aÃ±o favorita de mi hermano es otoÃ±o.,0
+Ayer visitÃ© el parque y vi un pez.,0
+El nÃºmero de telÃ©fono del usuario es 859-636-4760.,1
+Recomiendo seguir a @xeogha.yambof.,0
+El apellido del usuario es Manus.,1
+La comida favorita de mi amigo es pizza.,0
+La comida favorita de mi amigo es tacos.,0
+Mi nombre es Ana Gomez,1
+Hoy es un buen dÃ­a para caminar.,0
+El apellido del usuario es Colvin.,1
+Mi nombre es Upton Musgrove y mi telefono es 5203059228.,1
+Mi nÃºmero de tarjeta de crÃ©dito es 3566485767805172 y es de tipo jcb.,1
+Disfruto mucho pintar los fines de semana.,0
+El clima estÃ¡ nublado hoy.,0
+En mi casa tengo una planta de rosas.,0
+El nÃºmero de telÃ©fono del usuario es 977-201-8912.,1
+En mi casa tengo una planta de cactus.,0
+El clima estÃ¡ lluvioso hoy.,0
+Mi correo electronico es skrusehj@time.com.,1
+Disfruto mucho leer los fines de semana.,0
+El clima estÃ¡ ventoso hoy.,0
+Mi contraseÃ±a es abc123456,1
+Mi nÃºmero de tarjeta de crÃ©dito es 3539077863707933 y es de tipo jcb.,1
+Vi una pelÃ­cula sobre tecnologÃ­a y fue increÃ­ble.,0
+Mi correo electronico es ebalentynekh@webmd.com.,1
+Ayer visitÃ© el parque y vi un perro.,0
+Vi una pelÃ­cula sobre naturaleza y fue increÃ­ble.,0
+Mi nÃºmero de telÃ©fono adicional es cinco-cinco-cinco-seis-seis-seis-siete-siete-siete-siete,1
+Disfruto mucho cocinar los fines de semana.,0
+Ayer visitÃ© el parque y vi un pÃ¡jaro.,0
+Mi correo electronico es lsabbin1a@ehow.com.,1
+Hoy es un buen dÃ­a para leer.,0
+Vi una pelÃ­cula sobre naturaleza y fue increÃ­ble.,0
+No se pierdan los videos de @klirusb.ukxnyb.,0
+El telÃ©fono de mi papÃ¡ es ocho-ocho-ocho-ocho-ocho-ocho-ocho-ocho-ocho-ocho,1
+Mi correo electronico es gduffyndj@dailymail.co.uk.,1
+La estaciÃ³n del aÃ±o favorita de mi hermano es otoÃ±o.,0
+Mi nombre es Mela Pavlenko y mi telefono es 4707216522.,1
+Disfruto mucho pintar los fines de semana.,0
+Mi nombre es Laura Diaz,1
+La comida favorita de mi amigo es tacos.,0
+Mi nÃºmero de telÃ©fono  es 2381626672.,1
+En mi casa tengo una planta de orquÃ­deas.,0
+El nÃºmero de telÃ©fono del usuario es 594-360-0880.,1
+Mi nÃºmero de tarjeta de crÃ©dito es 5602245525947067 y es de tipo bankcard.,1
+Mi nÃºmero de tarjeta de crÃ©dito es 3561530206895188 y es de tipo jcb.,1
+Mi nombre es Shelden Swindin y mi telefono es 9021443757.,1
+@koqlf_mjgaqhq tiene unos posts geniales.,0
+El tipo de tarjeta de crÃ©dito del usuario es maestro.,1
+La comida favorita de mi amigo es pasta.,0
+Mi correo electronico es bzanussiils@hexun.com.,1
+Vi una pelÃ­cula sobre ciencia y fue increÃ­ble.,0
+Ayer visitÃ© el parque y vi un conejo.,0
+La contraseÃ±a del usuario es yI0_weOphVNO.,1
+Hoy es un buen dÃ­a para correr.,0
+Disfruto mucho pintar los fines de semana.,0
+Mi email es palbisserev@msn.com.,1
+Vi una pelÃ­cula sobre arte y fue increÃ­ble.,0
+No te pierdas las historias de @nachmpuz.wnggronc.,0
+Disfruto mucho cocinar los fines de semana.,0
+Hoy es un buen dÃ­a para pintar.,0
+Me encanta leer libros sobre arte.,0
+Recomiendo seguir a @mfqiuxyp_tlbeqpf.,0
+Mi nÃºmero de telÃ©fono  es 1311150334.,1
+Mi nÃºmero de telÃ©fono adicional es uno-uno-uno-dos-dos-dos-tres-tres-tres-tres,1
+El apellido del usuario es Cheson.,1
+No te pierdas las historias de @nylmkg.uyqqxka.,0
+Mi nÃºmero de tarjeta de crÃ©dito es 4405055579983682,1
+Mi correo electronico es bpollingtonlq@amazonaws.com.,1
+@ksiqhcztxtun tiene unos posts geniales.,0
+Hoy es un buen dÃ­a para leer.,0
+El telÃ©fono de mi papÃ¡ es ocho-ocho-ocho-ocho-ocho-ocho-ocho-ocho-ocho-ocho,1
+El clima estÃ¡ ventoso hoy.,0
+Mi email es egarie1y@feedburner.com.,1
+Ayer visitÃ© el parque y vi un pez.,0
+La contraseÃ±a del usuario es cV1_+9cO.,1
+Mi nÃºmero de telÃ©fono  es 2933303532.,1
+Mi nÃºmero de telÃ©fono  es 9722678326.,1
+Mi nÃºmero de telÃ©fono  es 5162098831.,1
+En mi casa tengo una planta de rosas.,0
+La ciudad estÃ¡ llena de mercados.,0
+Ayer visitÃ© el parque y vi un gato.,0
+La contraseÃ±a del usuario es tE7\\bkjxw.,1
+La felicidad se encuentra en las pequeÃ±as cosas de la vida.,0
+Todo lo que necesitas para ser feliz estÃ¡ dentro de ti.,0
+El amor es la fuerza mÃ¡s poderosa que existe.,0
+El Ã©xito es el resultado de hacer lo que amas con pasiÃ³n.,0
+Cada dÃ­a es una nueva oportunidad para empezar de nuevo.,0
+La perseverancia es la clave para lograr cualquier sueÃ±o.,0
+La creatividad es inteligencia divirtiÃ©ndose.,0
+La vida es lo que pasa mientras estamos ocupados haciendo otros planes.,0
+No hay atajos para cualquier lugar que valga la pena.,0
+Cada desafÃ­o es una oportunidad para aprender algo nuevo.,0
+El presente es el Ãºnico momento que realmente tenemos.,0
+La paciencia es una virtud que siempre se recompensa.,0
+La vida es un camino lleno de lecciones que nos hacen crecer.,0
+Cada paso hacia adelante es un paso hacia el Ã©xito.,0
+El futuro pertenece a aquellos que creen en la belleza de sus sueÃ±os.,0
+Los sueÃ±os no tienen fecha de caducidad.,0
+La actitud positiva es la clave para lograr cualquier meta.,0
+El amor propio es la base de una vida feliz.,0
+Todo lo que vale la pena en la vida requiere esfuerzo.,0
+El respeto es la base de cualquier relaciÃ³n sana.,0
+Las pequeÃ±as cosas son las que realmente hacen la diferencia.,0
+Los grandes logros empiezan con pequeÃ±os esfuerzos.,0
+El trabajo en equipo hace que el sueÃ±o se convierta en realidad.,0
+Cada dÃ­a es una nueva pÃ¡gina en tu historia.,0
+La generosidad es un regalo que se da tanto al que la recibe como al que la da.,0
+La esperanza es el Ãºltimo refugio de los que sueÃ±an.,0
+Los sueÃ±os se convierten en realidad cuando los persigues con pasiÃ³n.,0
+La actitud con la que enfrentas la vida determina tu destino.,0
+Cada dÃ­a nos brinda nuevas oportunidades para mejorar.,0
+El esfuerzo diario es el que marca la diferencia a largo plazo.,0
+El primer paso para lograr algo es creer que puedes hacerlo.,0
+Lo que no te mata te hace mÃ¡s fuerte.,0
+Cada dÃ­a es una nueva oportunidad para hacer algo grandioso.,0
+La vida es un reflejo de nuestros pensamientos y actitudes.,0
+El progreso es el resultado de pequeÃ±os avances constantes.,0
+Todo lo que hagas hoy es el primer paso hacia tu futuro.,0
+La gratitud convierte lo que tenemos en suficiente.,0
+El conocimiento es la llave para abrir puertas en la vida.,0
+Lo que haces hoy tiene un impacto en tu futuro.,0
+El amor es el camino hacia la paz interior.,0
+Cada dÃ­a es una nueva oportunidad para aprender y crecer.,0
+La actitud positiva puede transformar tu vida.,0
+La perseverancia es la clave para superar cualquier desafÃ­o.,0
+El amor es un viaje que nunca termina.,0
+Las estrellas solo brillan en la oscuridad.,0
+La vida es una aventura que solo se puede disfrutar plenamente si estÃ¡s dispuesto,0
+El amor es la fuerza mÃ¡s poderosa que existe.,0
+El Ã©xito es el resultado de hacer lo que amas con pasiÃ³n.,0
+Cada dÃ­a es una nueva oportunidad para empezar de nuevo.,0
+La perseverancia es la clave para lograr cualquier sueÃ±o.,0
+La creatividad es inteligencia divirtiÃ©ndose.,0
+La vida es lo que pasa mientras estamos ocupados haciendo otros planes.,0
+No hay atajos para cualquier lugar que valga la pena.,0
+Cada desafÃ­o es una oportunidad para aprender algo nuevo.,0
+El presente es el Ãºnico momento que realmente tenemos.,0
+La paciencia es una virtud que siempre se recompensa.,0
+La vida es un camino lleno de lecciones que nos hacen crecer.,0
+Cada paso hacia adelante es un paso hacia el Ã©xito.,0
+El futuro pertenece a aquellos que creen en la belleza de sus sueÃ±os.,0
+Los sueÃ±os no tienen fecha de caducidad.,0
+La actitud positiva es la clave para lograr cualquier meta.,0
+El amor propio es la base de una vida feliz.,0
+Todo lo que vale la pena en la vida requiere esfuerzo.,0
+El respeto es la base de cualquier relaciÃ³n sana.,0
+Las pequeÃ±as cosas son las que realmente hacen la diferencia.,0
+Los grandes logros empiezan con pequeÃ±os esfuerzos.,0
+El trabajo en equipo hace que el sueÃ±o se convierta en realidad.,0
+Cada dÃ­a es una nueva pÃ¡gina en tu historia.,0
+La generosidad es un regalo que se da tanto al que la recibe como al que la da.,0
+La esperanza es el Ãºltimo refugio de los que sueÃ±an.,0
+Los sueÃ±os se convierten en realidad cuando los persigues con pasiÃ³n.,0
+La actitud con la que enfrentas la vida determina tu destino.,0
+Cada dÃ­a nos brinda nuevas oportunidades para mejorar.,0
+El esfuerzo diario es el que marca la diferencia a largo plazo.,0
+El primer paso para lograr algo es creer que puedes hacerlo.,0
+Lo que no te mata te hace mÃ¡s fuerte.,0
+Cada dÃ­a es una nueva oportunidad para hacer algo grandioso.,0
+La vida es un reflejo de nuestros pensamientos y actitudes.,0
+El progreso es el resultado de pequeÃ±os avances constantes.,0
+Todo lo que hagas hoy es el primer paso hacia tu futuro.,0
+La gratitud convierte lo que tenemos en suficiente.,0
+El conocimiento es la llave para abrir puertas en la vida.,0
+Lo que haces hoy tiene un impacto en tu futuro.,0
+El amor es el camino hacia la paz interior.,0
+Cada dÃ­a es una nueva oportunidad para aprender y crecer.,0
+La actitud positiva puede transformar tu vida.,0
+La perseverancia es la clave para superar cualquier desafÃ­o.,0
+El amor es un viaje que nunca termina.,0
+Las estrellas solo brillan en la oscuridad.,0
+La vida es una aventura que solo se puede disfrutar plenamente si estÃ¡s dispuesto a arriesgarte.,0
+Todo lo que necesitas para ser feliz estÃ¡ dentro de ti.,0
+El amor es la fuerza mÃ¡s poderosa que existe.,0
+El Ã©xito es el resultado de hacer lo que amas con pasiÃ³n.,0
+Cada dÃ­a es una nueva oportunidad para empezar de nuevo.,0
+La perseverancia es la clave para lograr cualquier sueÃ±o.,0
+La creatividad es inteligencia divirtiÃ©ndose.,0
+La vida es lo que pasa mientras estamos ocupados haciendo otros planes.,0
+No hay atajos para cualquier lugar que valga la pena.,0
+Cada desafÃ­o es una oportunidad para aprender algo nuevo.,0
+El presente es el Ãºnico momento que realmente tenemos.,0
+La paciencia es una virtud que siempre se recompensa.,0
+La vida es un camino lleno de lecciones que nos hacen crecer.,0
+Cada paso hacia adelante es un paso hacia el Ã©xito.,0
+El futuro pertenece a aquellos que creen en la belleza de sus sueÃ±os.,0
+Los sueÃ±os no tienen fecha de caducidad.,0
+La actitud positiva es la clave para lograr cualquier meta.,0
+El amor propio es la base de una vida feliz.,0
+Todo lo que vale la pena en la vida requiere esfuerzo.,0
+El respeto es la base de cualquier relaciÃ³n sana.,0
+Las pequeÃ±as cosas son las que realmente hacen la diferencia.,0
+Los grandes logros empiezan con pequeÃ±os esfuerzos.,0
+El trabajo en equipo hace que el sueÃ±o se convierta en realidad.,0
+Cada dÃ­a es una nueva pÃ¡gina en tu historia.,0
+La generosidad es un regalo que se da tanto al que la recibe como al que la da.,0
+La esperanza es el Ãºltimo refugio de los que sueÃ±an.,0
+Los sueÃ±os se convierten en realidad cuando los persigues con pasiÃ³n.,0
+La actitud con la que enfrentas la vida determina tu destino.,0
+Cada dÃ­a nos brinda nuevas oportunidades para mejorar.,0
+El esfuerzo diario es el que marca la diferencia a largo plazo.,0
+El primer paso para lograr algo es creer que puedes hacerlo.,0
+Lo que no te mata te hace mÃ¡s fuerte.,0
+Cada dÃ­a es una nueva oportunidad para hacer algo grandioso.,0
+La vida es un reflejo de nuestros pensamientos y actitudes.,0
+El progreso es el resultado de pequeÃ±os avances constantes.,0
+Todo lo que hagas hoy es el primer paso hacia tu futuro.,0
+La gratitud convierte lo que tenemos en suficiente.,0
+El conocimiento es la llave para abrir puertas en la vida.,0
+Lo que haces hoy tiene un impacto en tu futuro.,0
+El amor es el camino hacia la paz interior.,0
+Cada dÃ­a es una nueva oportunidad para aprender y crecer.,0
+La actitud positiva puede transformar tu vida.,0
+La perseverancia es la clave para superar cualquier desafÃ­o.,0
+El amor es un viaje que nunca termina.,0
+Las estrellas solo brillan en la oscuridad.,0
+La felicidad se encuentra en las pequeÃ±as cosas de la vida.,0
+Todo lo que necesitas para ser feliz estÃ¡ dentro de ti.,0
+El amor es la fuerza mÃ¡s poderosa que existe.,0
+El Ã©xito es el resultado de hacer lo que amas con pasiÃ³n.,0
+Cada dÃ­a es una nueva oportunidad para empezar de nuevo.,0
+La perseverancia es la clave para lograr cualquier sueÃ±o.,0
+La creatividad es inteligencia divirtiÃ©ndose.,0
+La vida es lo que pasa mientras estamos ocupados haciendo otros planes.,0
+No hay atajos para cualquier lugar que valga la pena.,0
+Cada desafÃ­o es una oportunidad para aprender algo nuevo.,0
+El presente es el Ãºnico momento que realmente tenemos.,0
+La paciencia es una virtud que siempre se recompensa.,0
+La vida es un camino lleno de lecciones que nos hacen crecer.,0
+Cada paso hacia adelante es un paso hacia el Ã©xito.,0
+El futuro pertenece a aquellos que creen en la belleza de sus sueÃ±os.,0
+Los sueÃ±os no tienen fecha de caducidad.,0
+La actitud positiva es la clave para lograr cualquier meta.,0
+El amor propio es la base de una vida feliz.,0
+Todo lo que vale la pena en la vida requiere esfuerzo.,0
+El respeto es la base de cualquier relaciÃ³n sana.,0
+Las pequeÃ±as cosas son las que realmente hacen la diferencia.,0
+Los grandes logros empiezan con pequeÃ±os esfuerzos.,0
+El trabajo en equipo hace que el sueÃ±o se convierta en realidad.,0
+Cada dÃ­a es una nueva pÃ¡gina en tu historia.,0
+La generosidad es un regalo que se da tanto al que la recibe como al que la da.,0
+La esperanza es el Ãºltimo refugio de los que sueÃ±an.,0
+Los sueÃ±os se convierten en realidad cuando los persigues con pasiÃ³n.,0
+La actitud con la que enfrentas la vida determina tu destino.,0
+Cada dÃ­a nos brinda nuevas oportunidades para mejorar.,0
+El esfuerzo diario es el que marca la diferencia a largo plazo.,0
+El primer paso para lograr algo es creer que puedes hacerlo.,0
+Lo que no te mata te hace mÃ¡s fuerte.,0
+Cada dÃ­a es una nueva oportunidad para hacer algo grandioso.,0
+La vida es un reflejo de nuestros pensamientos y actitudes.,0
+El progreso es el resultado de pequeÃ±os avances constantes.,0
+El telÃ©fono de mi papÃ¡ es seis-seis-seis-seis-seis-seis-seis-seis-seis-seis.,1
+Mi nÃºmero de telÃ©fono adicional es cuatro-cinco-seis-cuatro-cinco-seis-cuatro-cinco-seis-siete.,1
+Mi tarjeta de crÃ©dito es 8888888888888888 y es de tipo MasterCard.,1
+Mi correo electrÃ³nico es elena.add@example.com.,1
+Mi contraseÃ±a es 1234@56.,1
+El telÃ©fono de mi papÃ¡ es cinco-cinco-cinco-cinco-cinco-cinco-cinco-cinco-cinco-cinco.,1
+Mi nÃºmero de telÃ©fono adicional es siete-siete-siete-ocho-ocho-ocho-nueve-nueve-nueve-nueve.,1
+Mi tarjeta de crÃ©dito es 4333333333333333 y es de tipo AMEX.,1
+Mi correo electrÃ³nico es carlos.add@example.com.,1
+Mi contraseÃ±a es qwerty789.,1
+Mi nombre es Sofia Hernandez.,1
+El telÃ©fono de mi papÃ¡ es dos-dos-dos-dos-dos-dos-dos-dos-dos-dos.,1
+Mi nÃºmero de telÃ©fono adicional es nueve-nueve-nueve-uno-uno-uno-dos-dos-dos-dos.,1
+Mi tarjeta de crÃ©dito es 684545154146 y es de tipo AMEX.,1
+Mi correo electrÃ³nico es sofia.add@example.com.,1
+Mi contraseÃ±a es vH2$7zSEANUicQA.,1
+Mi nombre es Keene Pringuer y mi correo es kpringuergm@last.fm.,1
+Mi nombre es Stinky Lingley.,1
+El telÃ©fono de mi papÃ¡ es 232-297-1230.,1
+Mi nÃºmero de telÃ©fono adicional es 7368788158.,1
+Mi tarjeta de crÃ©dito es 3539795219498143 y es de tipo jcb.,1
+Mi correo electrÃ³nico es slingleygn@quantcast.com.,1
+Mi contraseÃ±a es iN2/73e>N.,1
+Mi nombre es Stinky Lingley y mi correo es slingleygn@quantcast.com.,1
+Mi nombre es Zelma Chitty.,1
+El telÃ©fono de mi papÃ¡ es 709-237-5313.,1
+Mi nÃºmero de telÃ©fono adicional es 6288041620.,1
+Mi tarjeta de crÃ©dito es 3587537656556814 y es de tipo jcb.,1
+Mi correo electrÃ³nico es zchittygo@tiny.cc.,1
+Mi contraseÃ±a es nW6`hfuq}.,1
+Mi nombre es Zelma Chitty y mi correo es zchittygo@tiny.cc.,1
+Mi nombre es Brockie Hugnin.,1
+El telÃ©fono de mi papÃ¡ es 533-692-4249.,1
+Mi nÃºmero de telÃ©fono adicional es 1586842990.,1
+Mi tarjeta de crÃ©dito es 3565381440371149 y es de tipo jcb.,1
+Mi correo electrÃ³nico es bhugningp@livejournal.com.,1
+Mi contraseÃ±a es bJ4.Og@S/iq7!N.,1
+Mi nombre es Brockie Hugnin y mi correo es bhugningp@livejournal.com.,1
+Mi nombre es Donn Karpol.,1
+El telÃ©fono de mi papÃ¡ es 119-953-4939.,1
+Mi nÃºmero de telÃ©fono adicional es 9704438235.,1
+Mi tarjeta de crÃ©dito es 4508458945760774 y es de tipo visa-electron.,1
+Mi correo electrÃ³nico es dkarpolgq@loc.gov.,1
+Mi contraseÃ±a es tH5#~KpduvLC*.,1
+La perseverancia es la clave para lograr cualquier sueÃ±o.,0
+La creatividad es inteligencia divirtiÃ©ndose.,0
+La vida es lo que pasa mientras estamos ocupados haciendo otros planes.,0
+No hay atajos para cualquier lugar que valga la pena.,0
+Cada desafÃ­o es una oportunidad para aprender algo nuevo.,0
+El presente es el Ãºnico momento que realmente tenemos.,0
+La paciencia es una virtud que siempre se recompensa.,0
+La vida es un camino lleno de lecciones que nos hacen crecer.,0
+Cada paso hacia adelante es un paso hacia el Ã©xito.,0
+El futuro pertenece a aquellos que creen en la belleza de sus sueÃ±os.,0
+Los sueÃ±os no tienen fecha de caducidad.,0
+La actitud positiva es la clave para lograr cualquier meta.,0
+El amor propio es la base de una vida feliz.,0
+Todo lo que vale la pena en la vida requiere esfuerzo.,0
+El respeto es la base de cualquier relaciÃ³n sana.,0
+Las pequeÃ±as cosas son las que realmente hacen la diferencia.,0
+Los grandes logros empiezan con pequeÃ±os esfuerzos.,0
+El trabajo en equipo hace que el sueÃ±o se convierta en realidad.,0
+Cada dÃ­a es una nueva pÃ¡gina en tu historia.,0
+La generosidad es un regalo que se da tanto al que la recibe como al que la da.,0
+La esperanza es el Ãºltimo refugio de los que sueÃ±an.,0
+Los sueÃ±os se convierten en realidad cuando los persigues con pasiÃ³n.,0
+La actitud con la que enfrentas la vida determina tu destino.,0
+Cada dÃ­a nos brinda nuevas oportunidades para mejorar.,0
+El esfuerzo diario es el que marca la diferencia a largo plazo.,0
+El primer paso para lograr algo es creer que puedes hacerlo.,0
+Lo que no te mata te hace mÃ¡s fuerte.,0
+Cada dÃ­a es una nueva oportunidad para hacer algo grandioso.,0
+La vida es un reflejo de nuestros pensamientos y actitudes.,0
+El progreso es el resultado de pequeÃ±os avances constantes.,0
+Todo lo que hagas hoy es el primer paso hacia tu futuro.,0
+La gratitud convierte lo que tenemos en suficiente.,0
+El conocimiento es la llave para abrir puertas en la vida.,0
+Lo que haces hoy tiene un impacto en tu futuro.,0
+El amor es el camino hacia la paz interior.,0
+Cada dÃ­a es una nueva oportunidad para aprender y crecer.,0
+La actitud positiva puede transformar tu vida.,0
+La perseverancia es la clave para superar cualquier desafÃ­o.,0
+El amor es un viaje que nunca termina.,0
+Las estrellas solo brillan en la oscuridad.,0
+La vida es una aventura que solo se puede disfrutar plenamente si estÃ¡s dispuesto,0
+El amor es la fuerza mÃ¡s poderosa que existe.,0
+El Ã©xito es el resultado de hacer lo que amas con pasiÃ³n.,0
+Cada dÃ­a es una nueva oportunidad para empezar de nuevo.,0
+La perseverancia es la clave para lograr cualquier sueÃ±o.,0
+La creatividad es inteligencia divirtiÃ©ndose.,0
+La vida es lo que pasa mientras estamos ocupados haciendo otros planes.,0
+No hay atajos para cualquier lugar que valga la pena.,0
+Cada desafÃ­o es una oportunidad para aprender algo nuevo.,0
+El presente es el Ãºnico momento que realmente tenemos.,0
+La paciencia es una virtud que siempre se recompensa.,0
+La vida es un camino lleno de lecciones que nos hacen crecer.,0
+Cada paso hacia adelante es un paso hacia el Ã©xito.,0
+El futuro pertenece a aquellos que creen en la belleza de sus sueÃ±os.,0
+Los sueÃ±os no tienen fecha de caducidad.,0
+La actitud positiva es la clave para lograr cualquier meta.,0
+El amor propio es la base de una vida feliz.,0
+Todo lo que vale la pena en la vida requiere esfuerzo.,0
+El respeto es la base de cualquier relaciÃ³n sana.,0
+Las pequeÃ±as cosas son las que realmente hacen la diferencia.,0
+Los grandes logros empiezan con pequeÃ±os esfuerzos.,0
+El trabajo en equipo hace que el sueÃ±o se convierta en realidad.,0
+Cada dÃ­a es una nueva pÃ¡gina en tu historia.,0
+La generosidad es un regalo que se da tanto al que la recibe como al que la da.,0
+La esperanza es el Ãºltimo refugio de los que sueÃ±an.,0
+Los sueÃ±os se convierten en realidad cuando los persigues con pasiÃ³n.,0
+La actitud con la que enfrentas la vida determina tu destino.,0
+Cada dÃ­a nos brinda nuevas oportunidades para mejorar.,0
+El esfuerzo diario es el que marca la diferencia a largo plazo.,0
+El primer paso para lograr algo es creer que puedes hacerlo.,0
+Lo que no te mata te hace mÃ¡s fuerte.,0
+Cada dÃ­a es una nueva oportunidad para hacer algo grandioso.,0
+La vida es un reflejo de nuestros pensamientos y actitudes.,0
+El progreso es el resultado de pequeÃ±os avances constantes.,0
+Todo lo que hagas hoy es el primer paso hacia tu futuro.,0
+La gratitud convierte lo que tenemos en suficiente.,0
+El conocimiento es la llave para abrir puertas en la vida.,0
+Lo que haces hoy tiene un impacto en tu futuro.,0
+El amor es el camino hacia la paz interior.,0
+Cada dÃ­a es una nueva oportunidad para aprender y crecer.,0
+La actitud positiva puede transformar tu vida.,0
+La perseverancia es la clave para superar cualquier desafÃ­o.,0
+El amor es un viaje que nunca termina.,0
+¿El numero de identificación de Carolina Soto es 52454151541541?.,1
