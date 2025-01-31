@@ -1,4 +1,4 @@
-# Detección de Información Sensible
+# ARQUITECTURA DE PROTECCIÓN DE PRIVACIDAD DE DATOS PARA MODELOS DE LENGUAJE DE GRAN TAMAÑO (LLM) USANDO CHATGPT
 
 Este proyecto se centra en la **detección y ofuscación de información e imágenes sensibles**. A continuación, se detallan los aspectos clave del sistema implementado.
 
